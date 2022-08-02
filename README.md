@@ -1,4 +1,4 @@
 # Curso de React 
-## Hora de codar
+#### Plataforma Hora de codar
 
- Projeto criado para o estudo de React
+ Estudo de inicialização em React
