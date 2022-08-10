@@ -1,5 +1,6 @@
 # Arquivo para facilitar o encontr de soluções
 ---- 
+
 testes
 
 ----------
@@ -7,7 +8,9 @@ testes
 testestes
 
 --
-testes
+
+testes0
+
 -
 
 -
