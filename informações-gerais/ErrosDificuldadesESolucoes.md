@@ -27,3 +27,6 @@ Caso este erro ocorra, nomeu caso, bastou apenas executar o comando
   - Instala/incializa os arquivos react.
 - **npm start**
   - Inicializa o arquivo React.
+
+**preventDefault()** 
+ - para o comportamento normal do html, travando submit, fazendo com que a página não seja recarregada, muito usado em formularios 
