@@ -2,7 +2,7 @@ import React from 'react'
 
 function cadastrarUsuario(e){
     e.preventDefault() 
-    console.log ('Olá ${Cadastro efetuado com sucesso!')
+    console.log (`Olá, seu cadastro foi efetuado com sucesso!`)
 }
 
 
