@@ -5,10 +5,10 @@ function Form() {
     function cadastrarUsuario(e) {
         e.preventDefault()
         console.log (`Usuário ${name} foi cadastrado com a senha: ${password}`)
+       
     }
-
-    const [name, setName] = useState("")
-    const [password, setPassword] = useState()
+    const [name, setName]=useState("")
+    const [password, setPassword]=useState()
 
     return (
         <div>
