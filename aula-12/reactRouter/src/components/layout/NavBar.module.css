@@ -1,0 +1,8 @@
+.list{
+  display: flex; /*joga um item ao lado  do outro*/
+  list-style: none;
+}
+
+.item{
+  margin-right: 1em;
+}
