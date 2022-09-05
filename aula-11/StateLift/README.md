@@ -1,0 +1,3 @@
+# State Lift
+
+- State Lift é uma técnica utilizada para compartilhar o state, definindo o dado no useState, é normal vários componentes dependerem do mesmo estado, então precisamos elevar o nível do mesmo a um componente pai, ou seja ao invés de manipular o state no input, por exemplo, manipularemos o state no pai do input, conseguindo assim passar o state para dois componentes distintos, então centralizamos o state no pai e definimos quem usa e quem define(setState
